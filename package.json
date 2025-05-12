@@ -1,0 +1,16 @@
+{
+  "name": "com.simulfactory.lenseffectshader",
+  "version": "1.0.0",
+  "displayName": "LensEffectShader",
+  "description": "Lens Effect Shader For Unity",
+  "unity": "2021.3",
+  "dependencies": {
+  },
+  "keywords": [
+  ],
+  "author": {
+    "name": "Mywatt",
+    "email": "padamu1@naver.com",
+    "url": "https://github.com/padamu1"
+  }
+}
