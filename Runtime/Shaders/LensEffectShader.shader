@@ -41,7 +41,6 @@ Shader "SimulFactory/Shader/LensEffectMaterial"
             HLSLPROGRAM
             #pragma vertex vert
             #pragma fragment frag
-            #pragma multi_compile __ UNITY_UI_CLIP_RECT
             #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Core.hlsl"
 
             struct vert_input 
