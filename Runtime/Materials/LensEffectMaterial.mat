@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: LensEffectMaterial
-  m_Shader: {fileID: 4800000, guid: 5a38bc3b0554845b59e98bedc2d8b713, type: 3}
+  m_Shader: {fileID: 4800000, guid: 0e03ff6d8cbf25b42abaed760a3f60b1, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
