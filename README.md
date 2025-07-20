@@ -8,6 +8,8 @@ Lens Effect Shader For Unity
 
 Window - Pacakge Manager - Install Package from git URL - "https://github.com/padamu1/LensEffectShader"
 
+Make new material and set shader - SimulFactory/Shader/LensEffectMaterial
+
 ---
 
 ## 📌 Samples
